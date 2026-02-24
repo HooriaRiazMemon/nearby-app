@@ -1,6 +1,5 @@
 # nearby-app
 Nearby is a full-stack MERN application that recommends places based on the user’s current mood and real-time location.  The app creates a personalized discovery experience by combining mood-based filtering, geolocation, and interactive maps.
-Bilkul 👍 yeh clean, professional aur properly structured **README.md** hai — direct GitHub pe paste kar sakte ho.
 
 Nearby – Mood-Based Location Recommendation App
 
